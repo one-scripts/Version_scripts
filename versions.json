@@ -1,7 +1,8 @@
 {
   "scripts": {
     "SellToNpc": "1.0",
-    "Register_StarterPack": "1.0"
+    "Register_StarterPack": "1.0",
+    "DailyReward": "1.0"
   },
   "discordLink": "https://discord.gg/VvcnT3J5CF",
   "PrintOnStartUpdated": "~s~[one.tebex.io] ~g~Your script is updated, ENJOY ~s~",
